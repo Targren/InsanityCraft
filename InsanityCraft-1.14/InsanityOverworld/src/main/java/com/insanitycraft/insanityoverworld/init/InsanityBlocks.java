@@ -1,6 +1,6 @@
-package com.insanitycraft.insanitygear.init;
+package com.insanitycraft.insanityoverworld.init;
 
-import com.insanitycraft.insanitygear.util.Reference;
+import com.insanitycraft.insanityoverworld.util.Reference;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.item.BlockItem;
